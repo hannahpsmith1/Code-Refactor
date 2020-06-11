@@ -3,6 +3,9 @@
 
 <head>
     <meta charset="UTF-8" />
+    <meta name="Horiseon" content="Website about search engine optimization" /> 
+    <meta name="Keywords" content="Search Engine Optimization, Social Media Marketing, Online Reputation Management">
+    <!-- added metadata name and keywords to help with search engine optimization -->
     <link rel="stylesheet" href="./assets/css/reset copy.css">
     <link rel="stylesheet" href="./assets/css/style.css">
     <title>Horiseon Search Engine Optimization</title>
@@ -20,8 +23,9 @@
             <!--Put several aspects of the list on a single line from 3 different lines, see Readme.md for screenshot of original)-->
         </div>
     </header>
+    <!-- changed div to header to for semantics, I want to make the list div to be nav but it keeps breaking it, so leaving as div for now -->
     <div class="hero"></div>
-    <div class="content">
+    <main class="content">
         <section id="search-engine-optimization" class="search-engine-optimization">
             <!--adding div id before div class which enables routing from the header portion to this section-->
             <img src="./assets/images/search-engine-optimization.jpg" alt="Notebook with 5 key SEO optimizations: Content, Headings, Mobile Compatability, Social Media, Link Building, Back Link " class="float-left" />
@@ -50,7 +54,7 @@
             </p>
         </section>
         <!-- changed div to section to be semantically easier to read -->
-    </div>
+    </main>
     <aside class="benefits">
         <div class="benefit-lead">
             <h3>Lead Generation</h3>
