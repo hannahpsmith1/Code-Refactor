@@ -45,16 +45,36 @@ ___
 
 ## Prerequisits
 
-Must have browser that is compatable
+*Access to the Internet
+*Web Browser
+*Github Account
+*Terminal (or gitbash)
+*Local Disk Storage Capacity 
+*VSCode, Sublime Text, or other IDE
 
 ## Installation
 
+Navigate to Github
+
+Execute the following commands in Terminal: 
+1. ls 
+    - view file directories on local machine
+2. mkdir Code-Refactor
+3. ls
+    - view file directory was created
+4. cd Code-Refactor
+5. git clone https://github.com/hannahpsmith1/Code-Refactor.git 
+
+### Installation GIF
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 ## Built With
 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 ---
 
 ## Deployed Site
