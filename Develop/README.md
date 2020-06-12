@@ -48,8 +48,8 @@ Must have browser that is compatable
 
 ## Built With
 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[CSS] (https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 ## Deployed Site
