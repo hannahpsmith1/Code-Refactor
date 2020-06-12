@@ -23,6 +23,13 @@ Homework 1
     </div>
 ```
 
+```
+    <div class="hero">
+        <span role="img" aria-label="Business People"> </span>
+            </div>
+            <!-- adding aria-label as a workaround for an alt tag for background image -->
+```
+
 
 
 ## Screen Shots
@@ -41,6 +48,7 @@ Must have browser that is compatable
 
 ## Built With
 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 [CSS] (https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
