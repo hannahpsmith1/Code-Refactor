@@ -13,13 +13,15 @@ ___
             </div>
             <!-- adding aria-label as a workaround for an alt tag for background image -->
 ```
-<p> The role of aria-label is that it will automatically be read by screen readers, so it will work as alt text for a background image like the class 
 
-<p> While trying to find a way to add alt text to the background image of the site, I came across an option to add aria-label so it will be read by a screen reader, but while also not requiring a change to the .hero class.  Reference sited below. 
+<p> While trying to find a way to add alt text to the background image of the site, I came across an option to add aria-label to the html so it will be read by a screen reader, but while also not requiring a change to the css. The role of aria-label is that it will automatically be read by screen readers, essentially filling in an empty html element so it will work as alt text for a background image. Reference sited below. 
 
+<img src="https://user-images.githubusercontent.com/59800839/84458382-bd669d00-ac19-11ea-9206-bd201dc0e6af.png" width= "auto" height="300">
+
+
+---
 
 ## Screenshot
----
 
 <img src="https://user-images.githubusercontent.com/59800839/84452415-9eacda00-ac0a-11ea-83e8-fecccda143a8.png"  width="auto" height="300">
 
@@ -60,17 +62,18 @@ ___
 ---
 
 ## Installation
+<p>Execute the following commands in Terminal: 
 
-1. Navigate to Github
-2. Execute the following commands in Terminal: 
-3. ls 
-4. mkdir Code-Refactor
-6. cd Code-Refactor
-7. git clone https://github.com/hannahpsmith1/Code-Refactor.git 
+1. ls 
+2. mkdir Code-Refactor
+3. cd Code-Refactor
+4. git clone https://github.com/hannahpsmith1/Code-Refactor.git 
 
-### Installation GIF
+---
 
-(![Install_Repo](https://user-images.githubusercontent.com/59800839/84457296-2bf62b80-ac17-11ea-9da2-f61f7d13522f.gif)
+### Installation GIF for visual reference
+
+![Install_Repo](https://user-images.githubusercontent.com/59800839/84457296-2bf62b80-ac17-11ea-9da2-f61f7d13522f.gif)
 
 
 ---
@@ -89,6 +92,7 @@ ___
 
 ## Author
 **Hannah Smith**  
+
 *[Portfolio](https://github.com/hannahpsmith1)
 *[Github](https://github.com/hannahpsmith1/Code-Refactor)
 *[LinkedIn](https://www.linkedin.com/in/hannah-patience-smith/)
