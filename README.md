@@ -5,7 +5,7 @@ ___
 
 
 
-### Cool Code! 
+## Cool Code! 
 
 ```
     <div class="hero">
@@ -15,17 +15,17 @@ ___
 ```
 <p> The role of aria-label is that it will automatically be read by screen readers, so it will work as alt text for a background image like the class 
 
-<p> While trying to find a way to add alt text to the background image of the site, I came across an option to add aria-label so it will be read by a screen reader, but while also not requiring a change to the .hero class.  Reference sited below. [Link to Sources](##Sources)
+<p> While trying to find a way to add alt text to the background image of the site, I came across an option to add aria-label so it will be read by a screen reader, but while also not requiring a change to the .hero class.  Reference sited below. 
 
 
-### Screenshot
+## Screenshot
 ---
 
 <img src="https://user-images.githubusercontent.com/59800839/84452415-9eacda00-ac0a-11ea-83e8-fecccda143a8.png"  width="auto" height="300">
 
 <p> Above you can see a screenshot of the orignal html for the unordered list displayed in the header of the site.  It was very long and had basic structural markup.  Below in the Code Snippet you can see the code I restructured to make it easier to read, more concise, and semantically descriptive.  I added header tags for semantic markup, moved all aspects of items on unordered list onto a single line for ease of reading and fewer lines of code. 
 
-### Code Snippet
+## Code Snippet
 ---
 ```
 <header class="header">
@@ -43,32 +43,37 @@ ___
 ___
 
 
-## Prerequisits
+## Prerequisites
 
 *Access to the Internet
+
 *Web Browser
+
 *Github Account
+
 *Terminal (or gitbash)
+
 *Local Disk Storage Capacity 
+
 *VSCode, Sublime Text, or other IDE
+
+---
 
 ## Installation
 
-Navigate to Github
-
-Execute the following commands in Terminal: 
-1. ls 
-    - view file directories on local machine
-2. mkdir Code-Refactor
-3. ls
-    - view file directory was created
-4. cd Code-Refactor
-5. git clone https://github.com/hannahpsmith1/Code-Refactor.git 
+1. Navigate to Github
+2. Execute the following commands in Terminal: 
+3. ls 
+4. mkdir Code-Refactor
+6. cd Code-Refactor
+7. git clone https://github.com/hannahpsmith1/Code-Refactor.git 
 
 ### Installation GIF
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+(![Install_Repo](https://user-images.githubusercontent.com/59800839/84457296-2bf62b80-ac17-11ea-9da2-f61f7d13522f.gif)
 
+
+---
 
 ## Built With
 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
